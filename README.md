@@ -1,6 +1,6 @@
 ![github](/public/home-page-tr.png)
 ![github](/public/home-page-en.png)
-![github](/public/home-page-dark-mode.png)
+![github](/public/home-page-dark.png)
 
 
 ## One Page Blog Web Site
