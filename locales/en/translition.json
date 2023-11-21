@@ -73,7 +73,63 @@
   "searchArea": {
     "placeHolder": "Search",
     "button": "Search"
+  },  "blogCategories": {
+  "title": "CATEGORIES",
+  "0": {
+    "title": "HTML",
+    "url": "/html",
+    "ıcon": "/assets/img/blog-categories-icons/html5.svg",
+    "image": "/assets/img/blog-categories/blog_category_1.jpg"
   },
+  "1": {
+    "title": "CSS",
+    "url": "/css",
+    "ıcon": "/assets/img/blog-categories-icons/css3.svg",
+    "image": "/assets/img/blog-categories/blog_category_2.jpg"
+  },
+  "2": {
+    "title": "Stylus",
+    "url": "/stylus",
+    "ıcon": "/assets/img/blog-categories-icons/stylus.svg",
+    "image": "/assets/img/blog-categories/blog_category_3.jpg"
+  },
+  "3": {
+    "title": "Sass - Scss",
+    "url": "/sass",
+    "ıcon": "/assets/img/blog-categories-icons/sass.svg",
+    "image": "/assets/img/blog-categories/blog_category_1.jpg"
+  },
+  "4": {
+    "title": "Javascript",
+    "url": "/javascript",
+    "ıcon": "/assets/img/blog-categories-icons/javascript.svg",
+    "image": "/assets/img/blog-categories/blog_category_2.jpg"
+  },
+  "5": {
+    "title": "React JS",
+    "url": "/react-js",
+    "ıcon": "/assets/img/blog-categories-icons/react.svg",
+    "image": "/assets/img/blog-categories/blog_category_3.jpg"
+  },
+  "6": {
+    "title": "Next.JS",
+    "url": "/next-js",
+    "ıcon": "/assets/img/blog-categories-icons/nextdotjs.svg",
+    "image": "/assets/img/blog-categories/blog_category_1.jpg"
+  },
+  "7": {
+    "title": "Vue.JS",
+    "url": "/vue-js",
+    "ıcon": "/assets/img/blog-categories-icons/vuedotjs.svg",
+    "image": "/assets/img/blog-categories/blog_category_2.jpg"
+  },
+  "8": {
+    "title": "Figma",
+    "url": "/figma",
+    "ıcon": "/assets/img/blog-categories-icons/figma.svg",
+    "image": "/assets/img/blog-categories/blog_category_3.jpg"
+  }
+},
   "populerBlogs": {
     "title": "Popular Blogs",
     "button": {
