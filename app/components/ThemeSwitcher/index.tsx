@@ -1,8 +1,8 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { useTheme } from "next-themes";
-import { MdOutlineDarkMode} from "react-icons/md";
-import {BsSun} from "react-icons/bs";
+import { IoSunnyOutline } from "react-icons/io5";
+import { IoSunnySharp } from "react-icons/io5";
 import {useTranslation} from "react-i18next";
 const ThemeSwitcher = () => {
     const { t } = useTranslation();
@@ -16,8 +16,8 @@ const ThemeSwitcher = () => {
     }
     return (
         <React.Fragment>
-            <button  onClick={() => setTheme("light")} className={"hidden dark:block dark:text-primary"}  aria-label={t("switcherButton.0")} ><BsSun/></button>
-            <button  onClick={() => setTheme("dark")} className={"block dark:hidden text-darkColor"} aria-label={t("switcherButton.1")}><MdOutlineDarkMode/></button>
+            <button  onClick={() => setTheme("dark")} className={"block dark:hidden"}  aria-label={t("header.buttons.0.title")} ><IoSunnyOutline /></button>
+            <button  onClick={() => setTheme("light")} className={"hidden dark:block dark:text-white group-hover:text-primary transition duration-500"} aria-label={t("header.buttons.0.title2")}><IoSunnySharp /></button>
         </React.Fragment>
     );
 };
