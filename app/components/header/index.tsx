@@ -43,7 +43,7 @@ const Header = () => {
                                 <ThemeSwitcher/>
                             </div>
                             <div className="text-sm leading-7 cursor-pointer">
-                                {theme === 'dark' ? t("header.buttons.0.title2") : t("header.buttons.0.title")}
+                                {theme === 'dark' ? t("header.buttons.0.title") : t("header.buttons.0.title2")}
                             </div>
                         </div>
                         {/* Favorites */}
