@@ -1,8 +1,3 @@
-![github](/public/home-page-tr.png)
-![github](/public/home-page-en.png)
-![github](/public/home-page-dark.png)
-
-
 ## One Page Blog Web Site
 
 First, run the development server:
@@ -20,4 +15,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Tailwind CSS
 - TypeScript
 - i18n
+
+#### images
+![github](/public/home-page-tr.png)
+![github](/public/home-page-en.png)
+![github](/public/home-page-dark.png)
 
