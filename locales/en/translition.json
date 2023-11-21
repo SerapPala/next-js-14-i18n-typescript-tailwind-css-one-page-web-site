@@ -1,0 +1,405 @@
+{
+  "language": "EN",
+  "languages": [
+    {
+      "title": "EN"
+    },
+    {
+      "title": "TR"
+    }
+  ],
+  "header": {
+    "logo": {
+      "title": "Logo",
+      "url": "/"
+    },
+    "buttons": {
+      "0": {
+        "title": "Dark Mode",
+        "title2": "Light Mode"
+      },
+      "1": {
+        "title": "My Favorites"
+      }
+    }
+  },
+  "navbar": {
+    "dropdownButton": {
+      "title": "All Categories"
+    },
+    "buttons": {
+      "0": {
+        "title": "frontend@gmail.com",
+        "link": "/contact"
+      }
+    },
+    "0": {
+      "title": "Home",
+      "link": "/",
+      "sectionId": "home"
+    },
+    "1": {
+      "title": "About Me",
+      "link": "/about",
+      "sectionId": "about"
+    },
+    "2": {
+      "title": "Projects",
+      "link": "/projects",
+      "sectionId": "projects"
+    },
+    "3": {
+      "title": "Services",
+      "link": "/services",
+      "sectionId": "services"
+    },
+    "4": {
+      "title": "Contact",
+      "link": "/contact",
+      "sectionId": "contact"
+    }
+  },
+  "mobileNavTitle": {
+    "0": {
+      "title": "Menu"
+    },
+    "1": {
+      "title": "Blog"
+    },
+    "2": {
+      "title": "Contact"
+    }
+  },
+  "searchArea": {
+    "placeHolder": "Search",
+    "button": "Search"
+  },
+  "populerBlogs": {
+    "title": "Popular Blogs",
+    "button": {
+      "title": "Read More"
+    },
+    "0": {
+      "title": "HTML",
+      "url": "/html",
+      "ıcon": "/assets/img/blog-categories-icons/html5.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg",
+      "description": "HTML stands for HyperText Markup Language, representing the first letters of the words.",
+      "category": "html",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "1": {
+      "title": "CSS",
+      "url": "/css",
+      "ıcon": "/assets/img/blog-categories-icons/css3.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg",
+      "description": "CSS, in addition to HTML, provides additional capabilities in text and formatting.",
+      "category": "css",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "2": {
+      "title": "Stylus",
+      "url": "/stylus",
+      "ıcon": "/assets/img/blog-categories-icons/stylus.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg",
+      "description": "Stylus is a small pen-shaped tool used to enter commands on a computer screen, mobile device, or graphic tablet.",
+      "category": "stylus",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "3": {
+      "title": "Sass - Scss",
+      "url": "/sass",
+      "ıcon": "/assets/img/blog-categories-icons/sass.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg",
+      "description": "Scss is a CSS preprocessor that provides features not present in regular CSS.",
+      "category": "sass",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "4": {
+      "title": "Javascript",
+      "url": "/javascript",
+      "ıcon": "/assets/img/blog-categories-icons/javascript.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg",
+      "description": "JavaScript is a programming language that, along with HTML and CSS, is one of the fundamental technologies of the World Wide Web.",
+      "category": "javascript",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "5": {
+      "title": "React JS",
+      "url": "/react-js",
+      "ıcon": "/assets/img/blog-categories-icons/react.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg",
+      "description": "Created by Facebook in 2011 to improve the performance of websites, React JS has been widely adopted by developers worldwide.",
+      "category": "react",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "6": {
+      "title": "Next.JS",
+      "url": "/next-js",
+      "ıcon": "/assets/img/blog-categories-icons/nextdotjs.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg",
+      "description": "Next.js is a React.js library that allows you to develop web applications with Server-Side Rendering (SSR) using React.js.",
+      "category": "nextjs",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "7": {
+      "title": "Vue.JS",
+      "url": "/vue-js",
+      "ıcon": "/assets/img/blog-categories-icons/vuedotjs.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg",
+      "description": "Vue (Vue.js / Vue JS) is a popular open-source JavaScript library that allows the creation of user interfaces (UI) and single-page applications.",
+      "category": "vuejs",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "8": {
+      "title": "Figma",
+      "url": "/figma",
+      "ıcon": "/assets/img/blog-categories-icons/figma.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg",
+      "description": "Figma is a cloud-based design and prototyping tool for digital projects.",
+      "category": "figma",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    }
+  },
+
+  "features": {
+    "0": {
+      "title": "HTML",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "url": "/html",
+      "ıcon": "/assets/img/blog-categories-icons/html5.svg"
+    },
+    "1": {
+      "title": "CSS",
+      "url": "/css",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "ıcon": "/assets/img/blog-categories-icons/css3.svg"
+    },
+    "2": {
+      "title": "Stylus",
+      "url": "/stylus",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "ıcon": "/assets/img/blog-categories-icons/stylus.svg"
+    }
+  },
+  "heroBanner": {
+    "image": {
+      "alt": "hero-banner"
+    },
+    "subtitle": "Front End Magazine",
+    "title": "Front End Developer",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam consectetur cum, deserunt ea esse excepturi ",
+    "button": {
+      "0": {
+        "title": "Read More",
+        "url": "/about"
+      },
+      "1": {
+        "title": "Contact",
+        "url": "/contact"
+      }
+    }
+  },
+  "socialItem": {
+    "0": {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/serap-pala",
+      "image": "/assets/img/social-icons/linkedin.svg"
+    },
+    "1": {
+      "title": "Github",
+      "url": "https://github.com/SerapPala",
+      "image": "/assets/img/social-icons/github.svg"
+    },
+    "2": {
+      "title": "Web Sitesi",
+      "url": "https://www.serappala.com",
+      "image": "/assets/img/social-icons/chrome.svg"
+    }
+  },
+  "blogs": {
+    "0": {
+      "title": "What is JavaScript?",
+      "description": "JavaScript is often confused with Java. While Java is a programming language, JavaScript is a scripting language.",
+      "content": "0"
+    },
+    "1": {
+      "title": "What is Next.js?",
+      "description": "Next.js is a library for React.js. With this library, you can develop web applications that perform Server-Side Rendering (SSR) using React.js.",
+      "content": "0"
+    },
+    "2": {
+      "title": "What is React JS?",
+      "description": "ReactJS is a powerful JavaScript library used by developers to create user interfaces for web applications.",
+      "content": "0"
+    },
+    "3": {
+      "title": "What is JavaScript?",
+      "description": "JavaScript is often confused with Java. While Java is a programming language, JavaScript is a scripting language.",
+      "content": "0"
+    },
+    "4": {
+      "title": "What is Next.js?",
+      "description": "Next.js is a library for React.js. With this library, you can develop web applications that perform Server-Side Rendering (SSR) using React.js.",
+      "content": "0"
+    },
+    "5": {
+      "title": "What is React JS?",
+      "description": "ReactJS is a powerful JavaScript library used by developers to create user interfaces for web applications.",
+      "content": "0"
+    }
+  },
+  "news": {
+    "title": "Latest news",
+    "0": {
+      "title": "JavaScript Nedir?",
+      "description": "Java ile JavaScript karıştırılmaktadır. Java bir programlama dili JavaScript ise betik dilidir.",
+      "content": "0",
+      "date": "11.11.2023"
+    },
+    "1": {
+      "title": "Next.js Nedir?",
+      "description": "Next.js bir React.js kütüphanesidir. Bu kütüphane sayesinde React.js kullanarak SSR (Server Side Rendering) işlemi yapabilen web uygulamaları geliştirebiliyorsunuz",
+      "content": "0",
+      "date": "12.11.2023"
+    },
+    "2": {
+      "title": "React JS Nedir?",
+      "description": "ReactJS, geliştiriciler tarafından web uygulamaları için kullanıcı arayüzleri oluşturmak amacıyla kullanılan güçlü bir JavaScript kütüphanesidir. ",
+      "content": "0",
+      "date": "13.11.2023"
+    },
+    "3": {
+      "title": "JavaScript Nedir?",
+      "description": "Java ile JavaScript karıştırılmaktadır. Java bir programlama dili JavaScript ise betik dilidir.",
+      "content": "0",
+      "date": "14.11.2023"
+    }
+  },
+  "slogan": {
+    "sectionId": "#slogan",
+    "header": "Header",
+    "title": "start your project.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque est explicabo facere molestias neque nihil nisi obcaecati odio omnis perspiciatis quo repudiandae sequi sint, tempora tempore unde veniam vitae!",
+    "circleText": "circle text",
+    "button": {
+      "title": "12 Kasım 2023",
+      "url": "/"
+    }
+  },
+  "grid1": {
+    "title": "POPULER POSTS",
+    "url": "/posts",
+    "sectionId": "#grid1",
+    "data": [
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      },
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      },
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      },
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      },
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "image": "/assets/img/logo.png",
+      "url": "/"
+    },
+    "title1": "Title 1",
+    "title2": "Title 2",
+    "title3": "Title 3",
+    "title4": "Title 4",
+    "button": "Title 3",
+    "placeholder": "Your Email Address",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet at culpa doloribus enim, est ex facere, harum id nihil, ullam unde veniam? Accusamus, delectus fugiat harum non nostrum optio. Sapiente!",
+    "data": [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "About Me",
+        "url": "/about"
+      },
+      {
+        "title": "Services",
+        "url": "/services"
+      },
+      {
+        "title": "Blog",
+        "url": "/blog"
+      }
+    ]
+  },
+  "copyright": {
+    "text": "2023 All Rights Reserved."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "link": {
+      "title": "Return to Homepage",
+      "url": "/"
+    }
+  },
+  "blog": {
+    "button": {
+      "title": "Continue Reading"
+    }
+  }
+}

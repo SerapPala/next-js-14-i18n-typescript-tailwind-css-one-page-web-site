@@ -1,0 +1,459 @@
+{
+  "language": "TR",
+  "languages": [
+    {
+      "title": "TR"
+    },
+    {
+      "title": "EN"
+    }
+  ],
+  "header": {
+    "logo": {
+      "title": "Logo",
+      "url": "/"
+    },
+    "buttons": {
+      "0": {
+        "title": "Koyu Mod",
+        "title2": "Açık Mod"
+      },
+      "1": {
+        "title": "Favorilerim"
+      }
+    }
+  },
+  "navbar": {
+    "dropdownButton": {
+      "title": "Tüm Kategoriler"
+    },
+    "buttons": {
+      "0": {
+        "title": "frontend@gmail.com",
+        "link": "/contact"
+      }
+    },
+    "0": {
+      "title": "Anasayfa",
+      "link": "/",
+      "sectionId": "anasayfa"
+    },
+    "1": {
+      "title": "Hakkımda",
+      "link": "/about",
+      "sectionId": "about"
+    },
+    "2": {
+      "title": "Projeler",
+      "link": "/projects",
+      "sectionId": "projeler"
+    },
+    "3": {
+      "title": "Hizmetler",
+      "link": "/services",
+      "sectionId": "hizmetler"
+    },
+    "4": {
+      "title": "İletişim",
+      "link": "/contact",
+      "sectionId": "iletisim"
+    }
+  },
+  "mobileNavTitle": {
+    "0": {
+      "title": "Menü"
+    },"1": {
+      "title": "Blog"
+    },"2": {
+      "title": "İletişim"
+    }
+  },
+  "searchArea": {
+    "placeHolder": "Arama Yap",
+    "button": "Ara"
+  },
+  "blogCategories": {
+    "title": "KATEGORİLER",
+    "0": {
+      "title": "HTML",
+      "url": "/html",
+      "ıcon": "/assets/img/blog-categories-icons/html5.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg"
+    },
+    "1": {
+      "title": "CSS",
+      "url": "/css",
+      "ıcon": "/assets/img/blog-categories-icons/css3.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg"
+    },
+    "2": {
+      "title": "Stylus",
+      "url": "/stylus",
+      "ıcon": "/assets/img/blog-categories-icons/stylus.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg"
+    },
+    "3": {
+      "title": "Sass - Scss",
+      "url": "/sass",
+      "ıcon": "/assets/img/blog-categories-icons/sass.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg"
+    },
+    "4": {
+      "title": "Javascript",
+      "url": "/javascript",
+      "ıcon": "/assets/img/blog-categories-icons/javascript.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg"
+    },
+    "5": {
+      "title": "React JS",
+      "url": "/react-js",
+      "ıcon": "/assets/img/blog-categories-icons/react.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg"
+    },
+    "6": {
+      "title": "Next.JS",
+      "url": "/next-js",
+      "ıcon": "/assets/img/blog-categories-icons/nextdotjs.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg"
+    },
+    "7": {
+      "title": "Vue.JS",
+      "url": "/vue-js",
+      "ıcon": "/assets/img/blog-categories-icons/vuedotjs.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg"
+    },
+    "8": {
+      "title": "Figma",
+      "url": "/figma",
+      "ıcon": "/assets/img/blog-categories-icons/figma.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg"
+    }
+  },
+  "populerBlogs": {
+    "title": "Populer Bloglar",
+    "button": {
+      "title": "Okumaya Devam Et"
+    },
+    "0": {
+      "title": "HTML",
+      "url": "/html",
+      "ıcon": "/assets/img/blog-categories-icons/html5.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg",
+      "description": "HyperText Markup Language kelimelerinin baş harflerinin kısaltılmasıdır.",
+      "category": "html",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "1": {
+      "title": "CSS",
+      "url": "/css",
+      "ıcon": "/assets/img/blog-categories-icons/css3.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg",
+      "description": "HTML'e ek olarak metin ve format biçimlendirme alanında fazladan olanaklar sunan bir işaretleme dilidir.",
+      "category": "css",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "2": {
+      "title": "Stylus",
+      "url": "/stylus",
+      "ıcon": "/assets/img/blog-categories-icons/stylus.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg",
+      "description": "Stylus kalem bilgisayar ekranına, mobil cihaza veya grafik tabletine komut girmek için kullanılan küçük bir kalem şeklinde alettir.",
+      "category": "stylus",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "3": {
+      "title": "Sass - Scss",
+      "url": "/sass",
+      "ıcon": "/assets/img/blog-categories-icons/sass.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg",
+      "description": "Scss, css’te olmayan özellikleri veren bir css ön işlemcisidir (css-preprocessor).",
+      "category": "sass",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "4": {
+      "title": "Javascript",
+      "url": "/javascript",
+      "ıcon": "/assets/img/blog-categories-icons/javascript.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg",
+      "description": "JavaScript, HTML ve CSS ile birlikte World Wide Web'in temel teknolojilerinden biri olan programlama dilidir.",
+      "category": "javascript",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "5": {
+      "title": "React JS",
+      "url": "/react-js",
+      "ıcon": "/assets/img/blog-categories-icons/react.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg",
+      "description": " İlk olarak 2011 yılında Facebook tarafından web sitelerinin performansını artırmak için oluşturuldu ve o zamandan beri dünya çapındaki geliştiriciler tarafından yaygın bir şekilde benimsendi",
+      "category": "react",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "6": {
+      "title": "Next.JS",
+      "url": "/next-js",
+      "ıcon": "/assets/img/blog-categories-icons/nextdotjs.svg",
+      "image": "/assets/img/blog-categories/blog_category_1.jpg",
+      "description": "Next.js bir React.js kütüphanesidir. Bu kütüphane sayesinde React.js kullanarak SSR (Server Side Rendering) işlemi yapabilen web uygulamaları geliştirebiliyorsunuz.",
+      "category": "nextjs",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "7": {
+      "title": "Vue.JS",
+      "url": "/vue-js",
+      "ıcon": "/assets/img/blog-categories-icons/vuedotjs.svg",
+      "image": "/assets/img/blog-categories/blog_category_2.jpg",
+      "description": "Vue (Vue.js / Vue JS), kullanıcı arayüzü (UI) ve tek sayfalı uygulamalar oluşturmayı sağlayan, açık kaynaklı popüler bir Javascript kütüphanesidir.",
+      "category": "vuejs",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    },
+    "8": {
+      "title": "Figma",
+      "url": "/figma",
+      "ıcon": "/assets/img/blog-categories-icons/figma.svg",
+      "image": "/assets/img/blog-categories/blog_category_3.jpg",
+      "description": "Figma, dijital projeler için bulut tabanlı bir tasarım ve prototip oluşturma aracıdır.",
+      "category": "figma",
+      "date": "19.11.2023",
+      "user": {
+        "name": "Serap Pala"
+      }
+    }
+  },
+  "features": {
+    "0": {
+      "title": "HTML",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "url": "/html",
+      "ıcon": "/assets/img/blog-categories-icons/html5.svg"
+    },
+    "1": {
+      "title": "CSS",
+      "url": "/css",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "ıcon": "/assets/img/blog-categories-icons/css3.svg"
+    },
+    "2": {
+      "title": "Stylus",
+      "url": "/stylus",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "ıcon": "/assets/img/blog-categories-icons/stylus.svg"
+    }
+  },
+  "heroBanner": {
+    "image": {
+      "alt": "hero-banner"
+    },
+    "subtitle": "Front End Magazine",
+    "title": "Front End Developer",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam consectetur cum, deserunt ea esse excepturi ",
+    "button": {
+      "0": {
+        "title": "Okumaya Devam Et",
+        "url": "/about"
+      },
+      "1": {
+        "title": "İletİşİm",
+        "url": "/contact"
+      }
+    }
+  },
+  "socialItem": {
+    "0": {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/serap-pala",
+      "image": "/assets/img/social-icons/linkedin.svg"
+    },
+    "1": {
+      "title": "Github",
+      "url": "https://github.com/SerapPala",
+      "image": "/assets/img/social-icons/github.svg"
+    },
+    "2": {
+      "title": "Web Sitesi",
+      "url": "https://www.serappala.com",
+      "image": "/assets/img/social-icons/chrome.svg"
+    }
+  },
+  "blogs": {
+    "0": {
+      "title": "JavaScript Nedir?",
+      "description": "Java ile JavaScript karıştırılmaktadır. Java bir programlama dili JavaScript ise betik dilidir.",
+      "content": "0"
+    },
+    "1": {
+      "title": "Next.js Nedir?",
+      "description": "Next.js bir React.js kütüphanesidir. Bu kütüphane sayesinde React.js kullanarak SSR (Server Side Rendering) işlemi yapabilen web uygulamaları geliştirebiliyorsunuz",
+      "content": "0"
+    },
+    "2": {
+      "title": "React JS Nedir?",
+      "description": "ReactJS, geliştiriciler tarafından web uygulamaları için kullanıcı arayüzleri oluşturmak amacıyla kullanılan güçlü bir JavaScript kütüphanesidir. ",
+      "content": "0"
+    },
+    "3": {
+      "title": "JavaScript Nedir?",
+      "description": "Java ile JavaScript karıştırılmaktadır. Java bir programlama dili JavaScript ise betik dilidir.",
+      "content": "0"
+    },
+    "4": {
+      "title": "Next.js Nedir?",
+      "description": "Next.js bir React.js kütüphanesidir. Bu kütüphane sayesinde React.js kullanarak SSR (Server Side Rendering) işlemi yapabilen web uygulamaları geliştirebiliyorsunuz",
+      "content": "0"
+    },
+    "5": {
+      "title": "React JS Nedir?",
+      "description": "ReactJS, geliştiriciler tarafından web uygulamaları için kullanıcı arayüzleri oluşturmak amacıyla kullanılan güçlü bir JavaScript kütüphanesidir. ",
+      "content": "0"
+    }
+  },
+  "news": {
+    "title": "Son Haberler",
+    "0": {
+      "title": "JavaScript Nedir?",
+      "description": "Java ile JavaScript karıştırılmaktadır. Java bir programlama dili JavaScript ise betik dilidir.",
+      "content": "0",
+      "date": "11.11.2023"
+    },
+    "1": {
+      "title": "Next.js Nedir?",
+      "description": "Next.js bir React.js kütüphanesidir. Bu kütüphane sayesinde React.js kullanarak SSR (Server Side Rendering) işlemi yapabilen web uygulamaları geliştirebiliyorsunuz",
+      "content": "0",
+      "date": "12.11.2023"
+    },
+    "2": {
+      "title": "React JS Nedir?",
+      "description": "ReactJS, geliştiriciler tarafından web uygulamaları için kullanıcı arayüzleri oluşturmak amacıyla kullanılan güçlü bir JavaScript kütüphanesidir. ",
+      "content": "0",
+      "date": "13.11.2023"
+    },
+    "3": {
+      "title": "JavaScript Nedir?",
+      "description": "Java ile JavaScript karıştırılmaktadır. Java bir programlama dili JavaScript ise betik dilidir.",
+      "content": "0",
+      "date": "14.11.2023"
+    }
+  },
+  "slogan": {
+    "sectionId": "#slogan",
+    "header": "Header",
+    "title": "start your project.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque est explicabo facere molestias neque nihil nisi obcaecati odio omnis perspiciatis quo repudiandae sequi sint, tempora tempore unde veniam vitae!",
+    "circleText": "circle text",
+    "button": {
+      "title": "12 Kasım 2023",
+      "url": "/"
+    }
+  },
+  "grid1": {
+    "title": "POPULER POSTS",
+    "url": "/posts",
+    "sectionId": "#grid1",
+    "data": [
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      },
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      },
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      },
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      },
+      {
+        "title": "ACCUSTIUM DOLEREMQUE LAUDANT...",
+        "description": "                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid beatae consequatur excepturi exercitationem iste laudantium, molestiae optio quo quod quos sapiente sequi similique! Atque ea incidunt minima nisi nostrum.",
+        "date": "12.11.2023",
+        "fav": 30,
+        "comment": 50
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "image": "/assets/img/logo.png",
+      "url": "/"
+    },
+    "title1": "Başlık 1",
+    "title2": "Başlık 2",
+    "title3": "Başlık 3",
+    "title4": "Başlık 4",
+    "button": "Başlık 3",
+    "placeholder": "E-Posta Adresiniz",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet at culpa doloribus enim, est ex facere, harum id nihil, ullam unde veniam? Accusamus, delectus fugiat harum non nostrum optio. Sapiente!",
+    "data": [
+      {
+        "title": "Anasayfa",
+        "url": "/"
+      },
+      {
+        "title": "Hakkımda",
+        "url": "/about"
+      },
+      {
+        "title": "Hizmetler",
+        "url": "/services"
+      },
+      {
+        "title": "Blog",
+        "url": "/blog"
+      }
+    ]
+  },
+  "copyright": {
+    "text": "2023 Tüm Hakları Saklıdır."
+  },
+  "notFound": {
+    "title": "Sayfa Bulunamadı",
+    "link": {
+      "title": "Anasayfaya dön",
+      "url": "/"
+    }
+  },
+  "blog": {
+    "button": {
+      "title": "Okumaya devam et"
+    }
+  }
+}

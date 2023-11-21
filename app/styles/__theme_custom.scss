@@ -1,0 +1,41 @@
+
+
+.header-text {
+  @apply text-dark dark:text-white  font-medium tracking-wider mb-4 text-3xl ;
+}
+.description {
+  @apply text-gray-600 dark:text-white text-xl font-normal tracking-wider lg:text-justify text-base  leading-6 lg:w-3/5;
+}
+/*
+
+
+
+
+
+.inputButtonMixin {
+  @apply py-1 px-1 bg-transparent border border-primary;
+}
+.outline-button {
+  @apply bg-transparent border border-white rounded px-6 py-2 hover:bg-primary font-medium cursor-pointer transition duration-500 whitespace-nowrap;
+}
+.bottom-button {
+  @apply text-secondary-900 dark:text-secondary uppercase text-lg hover:text-primary duration-500;
+}
+.button {
+  @apply bg-primary-900 dark:bg-primary  px-6 rounded py-2 text-white font-medium cursor-pointer transition duration-500 whitespace-nowrap;
+}
+
+.logo {
+  @apply text-3xl md:text-2xl lg:text-2xl font-semibold text-darkColor dark:text-white hover:text-primary-900 dark:hover:text-primary  cursor-pointer duration-500;
+}
+.navbar-link-active{
+  @apply text-primary-900 dark:text-primary;
+}
+.navbar-link{
+  @apply hover:text-primary-900 dark:hover:text-primary transition duration-500;
+}
+.footer-links {
+  @apply col-span-2 hover:text-primary duration-500 uppercase mb-2;
+}
+
+*/
