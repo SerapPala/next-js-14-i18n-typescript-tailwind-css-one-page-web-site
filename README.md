@@ -10,13 +10,13 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Technologies Used
+### Technologies Used:
 - Next.js 14
 - Tailwind CSS
 - TypeScript
 - i18n
 
-#### images
+#### WEb Site Images:
 ![github](/public/home-page-tr.png)
 ![github](/public/home-page-en.png)
 ![github](/public/home-page-dark.png)
