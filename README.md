@@ -1,3 +1,8 @@
+![github](/public/home-tr.png)
+![github](/public/home-en.png)
+![github](/public/home-dark-mode.png)
+
+
 ## One Page Blog Web Site
 
 First, run the development server:
@@ -10,7 +15,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Technologies Used
+### Technologies Used
 - Next.js 14
 - Tailwind CSS
 - TypeScript
